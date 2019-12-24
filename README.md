@@ -8,5 +8,7 @@ Future work would be focussed towards detecting multiple concentric pipes.
 <img src="images/pipes2.jpg" width="400">
 <img src="images/pipes3.jpg" width="400">
 <img src="images/pipes4.jpg" width="400">
+
 ## Examples of output images
-<img src="images/simple.png" width="400">
+
+<img src="images/MFBoY.png" width="400">
